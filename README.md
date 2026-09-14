@@ -262,14 +262,15 @@ Prof. Dr. Waghmode S.B.
 
 ---
 
-## 📷 Prototype
+## 📷 Project Prototype
 
-### Project Prototype
+### Prototype View 1
 
-![Smart Pump Project](project%201.png)
+![Smart Pump Prototype](project%201.png)
 
-![Smart Pump Project](project2.png)
----
+### Prototype View 2
+
+![Smart Pump Prototype](project2.png)
 
 ## 📂 Recommended Repository Structure
 
