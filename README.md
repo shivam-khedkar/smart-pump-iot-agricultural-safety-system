@@ -264,18 +264,11 @@ Prof. Dr. Waghmode S.B.
 
 ## 📷 Prototype
 
-Add your project photographs to the `images/` folder and use:
+### Project Prototype
 
-```markdown
-### Complete Prototype
+![Smart Pump Project](project%201.png)
 
-![Smart Pump Prototype](images/prototype.jpg)
-
-### Hardware Setup
-
-![Smart Pump Hardware](images/hardware.jpg)
-```
-
+![Smart Pump Project](project2.png)
 ---
 
 ## 📂 Recommended Repository Structure
